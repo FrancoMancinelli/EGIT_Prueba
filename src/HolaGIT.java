@@ -6,6 +6,7 @@ public class HolaGIT {
 		
 		String nombre = "Fran";
 		int numero = 0;
+		String apellido = "Mancinelli";
 	}
 
 }
